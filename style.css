@@ -21,6 +21,8 @@
     background-color: violet;
 }
 
-header {
-    
+canvas {
+    border: 1px;
+    display: block;
+    margin: 0 auto;
 }
